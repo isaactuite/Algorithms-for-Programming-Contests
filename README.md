@@ -12,6 +12,7 @@ Each week has a set of problems in the style of programming contests. Every prob
 | [week2](week2) | Indiana Jones and the lost Soccer Cup (`ind`), Library Hell (`lib`), City Roads (`cityroads`), Correcting Cheeseburgers (`cor`), Dominos for kids (`dom`) |
 | [week3](week3) | Diplomacy (`dip`), Walking Straight Into Circles (`wal`), Grading exams (`gra`), Candy Store (`can`), Room Finding (`roo`) |
 | [week4](week4) | Fly Deluxe (`fly`), Where to go? (`whe`), Party Planning (`par`), Supermarkets (`sup`), French Dinner (`fre`) |
+| [week5](week5) | Beer Pipes (`bee`), Chocolate (`cho`), Connectivity (`conn`), Interstellar (`int`), Railroad Network (`rai`) |
 
 ## Techniques used
 
@@ -19,6 +20,7 @@ Each week has a set of problems in the style of programming contests. Every prob
 - **Week 2:** graph algorithms: topological sort, BFS, strongly connected components, bidirectional BFS.
 - **Week 3:** union-find, minimum spanning trees (Kruskal), binary search on the answer, priority-queue simulation (Grading exams), finding a tree's center by peeling off leaves (Candy Store).
 - **Week 4:** shortest paths: Floyd-Warshall with offline queries (Fly Deluxe), Dijkstra (Where to go?, Supermarkets with a run from both ends), longest path in a DAG (Party Planning), difference constraints with Bellman-Ford negative-cycle detection (French Dinner).
+- **Week 5:** maximum flow with Dinic on flat arrays and fast input: real capacities (Beer Pipes), super source/sink (Chocolate), vertex-capacity node splitting for minimum vertex cut (Connectivity), shortest path plus a flow per system along it (Interstellar), plain undirected max flow (Railroad Network).
 
 ## Building and running
 
